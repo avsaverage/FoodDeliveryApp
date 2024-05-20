@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633261444794",
+    "project_id": "fooddeliveryapp-eee39",
+    "storage_bucket": "fooddeliveryapp-eee39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633261444794:android:cbe66d4186777766127c83",
+        "android_client_info": {
+          "package_name": "com.avsaverage.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFNyyuPvLI03U1eF8kuu6KGKr0kfSvVYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
